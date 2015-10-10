@@ -54,6 +54,9 @@ p {
 .bg-primary {
     background-color: #f05f40;
 }
+.bg-secondary{
+    background-color: #e1e1e1 ;
+}
 
 .bg-dark {
     color: #fff;
@@ -279,7 +282,8 @@ header .header-content .header-content-inner p {
     text-align: center;
     color: #fff;
     opacity: 0;
-    background: rgba(240,95,64,.9);
+    background: #FFC5B4;
+/*  rgba(240,95,64,.9) */
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
